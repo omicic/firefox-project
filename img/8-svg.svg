@@ -1,0 +1,21 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 120" width="180" height="120">
+	<title>8-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #952bb9;stroke-linecap:round;stroke-linejoin:round;stroke-width: 5.778 } 
+		.shp1 { fill: #ff8a50;stroke: #592acb;stroke-linecap:round;stroke-linejoin:round;stroke-width: 5.778 } 
+		.shp2 { fill: none;stroke: #592acb;stroke-linecap:round;stroke-linejoin:round;stroke-width: 5.778 } 
+	</style>
+	<g >
+		<g >
+			<path class="shp0" d="M22.97 34.94L22.97 43.26M157.03 34.84L157.03 43.26" />
+		</g>
+		<g >
+			<path class="shp0" d="M22.97 76.35L22.97 85.06M157.03 76.35L157.03 85.06" />
+		</g>
+		<path class="shp1" d="M32.51 23.61C28.64 23.61 25.52 21.36 25.52 18.58C25.52 15.8 28.64 13.55 32.51 13.55C36.37 13.55 39.49 15.8 39.49 18.58C39.49 21.36 36.37 23.61 32.51 23.61Z" />
+		<path class="shp1" d="M32.51 65.03C28.64 65.03 25.52 62.78 25.52 60C25.52 57.22 28.64 54.97 32.51 54.97C36.37 54.97 39.49 57.22 39.49 60C39.49 62.78 36.37 65.03 32.51 65.03Z" />
+		<path class="shp1" d="M32.51 106.45C28.64 106.45 25.52 104.2 25.52 101.42C25.52 98.64 28.64 96.39 32.51 96.39C36.37 96.39 39.49 98.64 39.49 101.42C39.49 104.2 36.37 106.45 32.51 106.45Z" />
+		<path class="shp2" d="M4.16 2.61L175.84 2.61L175.84 34.55L4.16 34.55L4.16 2.61ZM4.16 44.03L175.84 44.03L175.84 75.97L4.16 75.97L4.16 44.03ZM4.16 85.55L175.84 85.55L175.84 117.48L4.16 117.48L4.16 85.55Z" />
+	</g>
+</svg>

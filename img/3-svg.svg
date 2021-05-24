@@ -1,0 +1,21 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 120" width="180" height="120">
+	<title>3-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #592acb;stroke-linecap:round;stroke-linejoin:round;stroke-width: 4.647 } 
+		.shp1 { fill: #ff8a50;stroke: #592acb;stroke-linecap:round;stroke-linejoin:round;stroke-width: 4.647 } 
+		.shp2 { fill: none;stroke: #952bb9;stroke-linecap:round;stroke-linejoin:round;stroke-width: 4.647 } 
+	</style>
+	<g >
+		<g >
+			<path class="shp0" d="M29.67 2.71L29.67 115.16M145.51 2.71L145.51 56.32" />
+		</g>
+		<g >
+			<path class="shp0" d="M2.23 21.68L173.05 21.68M2.23 96.29L83.41 96.29" />
+		</g>
+		<path class="shp0" d="M83.41 96.29L29.67 96.29L29.67 21.68L145.51 21.68L145.51 55.45" />
+		<path class="shp0" d="M82.96 81.97L42.86 81.97L42.86 36L132.33 36L132.33 55.26" />
+		<path fill-rule="evenodd" class="shp1" d="M162.71 117.29L98.91 117.29C90.62 117.29 83.85 109.94 83.85 100.94L83.85 56.32L162.71 56.32C171 56.32 177.77 63.68 177.77 72.68L177.77 100.94C177.77 109.94 171 117.29 162.71 117.29L162.71 117.29Z" />
+		<path class="shp2" d="M99.89 74.13L165.39 74.13M99.89 86.81L165.39 86.81M99.89 99.48L165.39 99.48" />
+	</g>
+</svg>

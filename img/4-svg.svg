@@ -1,0 +1,28 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 120" width="180" height="120">
+	<title>4-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ff8a50;stroke-linecap:round;stroke-linejoin:round;stroke-width: 6.299 } 
+		.shp1 { fill: none;stroke: #592acb;stroke-linecap:round;stroke-linejoin:round;stroke-width: 6.299 } 
+		.shp2 { fill: #ff8a50;stroke: #952bb9;stroke-linecap:round;stroke-linejoin:round;stroke-width: 6.299 } 
+	</style>
+	<g >
+		<g >
+			<path class="shp0" d="M47.48 96.97L47.48 103.55M75.72 96.97L75.72 103.55M103.97 96.97L103.97 103.55M132.36 96.97L132.36 103.55" />
+		</g>
+		<g >
+			<path class="shp0" d="M68.74 22.84L68.74 29.42M90 22.84L90 29.42M111.26 22.84L111.26 29.42" />
+			<g >
+				<path class="shp0" d="M68.74 75L68.74 81.58M90 75L90 81.58M111.26 75L111.26 81.58" />
+			</g>
+			<g >
+				<path class="shp0" d="M42.21 66.29L52.76 66.29M42.21 53.03L52.76 53.03M42.21 39.77L52.76 39.77" />
+			</g>
+			<g >
+				<path class="shp0" d="M129.41 66.29L139.97 66.29M129.41 53.03L139.97 53.03M129.41 39.77L139.97 39.77" />
+			</g>
+		</g>
+		<path class="shp1" d="M174.72 112.65C174.72 115.26 171.31 117.39 167.12 117.39L12.88 117.39C8.69 117.39 5.28 115.26 5.28 112.65L5.28 64.26C12.72 62.23 17.84 57.58 17.84 52.16C17.84 46.74 12.72 42.1 5.28 40.06L5.28 7.26C5.28 4.65 8.69 2.52 12.88 2.52L166.97 2.52C171.16 2.52 174.57 4.65 174.57 7.26L174.57 40.06C167.12 42.1 162 46.74 162 52.16C162 57.58 167.12 62.23 174.57 64.26L174.57 112.65L174.72 112.65Z" />
+		<path fill-rule="evenodd" class="shp2" d="M122.43 74.13L59.74 74.13C55.86 74.13 52.76 72.19 52.76 69.77L52.76 34.65C52.76 32.23 55.86 30.29 59.74 30.29L122.43 30.29C126.31 30.29 129.41 32.23 129.41 34.65L129.41 69.77C129.41 72.19 126.16 74.13 122.43 74.13Z" />
+	</g>
+</svg>

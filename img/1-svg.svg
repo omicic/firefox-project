@@ -1,0 +1,21 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 120" width="180" height="120">
+	<title>feature-console</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff8a50 } 
+		.shp1 { fill: none;stroke: #592acb;stroke-linecap:round;stroke-linejoin:round;stroke-width: 4.892 } 
+		.shp2 { fill: #592acb } 
+		.shp3 { fill: none;stroke: #952bb9;stroke-linecap:round;stroke-linejoin:round;stroke-width: 4.892 } 
+	</style>
+	<g >
+		<path fill-rule="evenodd" class="shp0" d="M2.97 0.97L178.02 0.97L178.02 30.97L2.97 30.97L2.97 0.97Z" />
+		<path class="shp1" d="M166.25 117.58L13.75 117.58C7.81 117.58 2.97 112.84 2.97 107.03L2.97 2.42L177.03 2.42L177.03 107.03C177.03 112.84 172.19 117.58 166.25 117.58ZM4.35 30.77L174.28 30.77" />
+		<g >
+			<path class="shp2" d="M17.01 19.94C15.1 19.94 13.55 18.42 13.55 16.55C13.55 14.68 15.1 13.16 17.01 13.16C18.93 13.16 20.47 14.68 20.47 16.55C20.47 18.42 18.93 19.94 17.01 19.94Z" />
+			<path class="shp2" d="M30.96 19.94C29.04 19.94 27.49 18.42 27.49 16.55C27.49 14.68 29.04 13.16 30.96 13.16C32.87 13.16 34.42 14.68 34.42 16.55C34.42 18.42 32.87 19.94 30.96 19.94Z" />
+			<path class="shp2" d="M44.9 19.94C42.99 19.94 41.44 18.42 41.44 16.55C41.44 14.68 42.99 13.16 44.9 13.16C46.82 13.16 48.36 14.68 48.36 16.55C48.36 18.42 46.82 19.94 44.9 19.94Z" />
+		</g>
+		<path class="shp1" d="M24.33 48.87L80.31 48.87M89.6 48.87L155.97 48.87M24.33 63.1L98.8 63.1M106.22 63.1L138.36 63.1" />
+		<path class="shp3" d="M41.34 101.71L58.75 101.71M24.33 81.1L34.81 91.45L24.33 101.71" />
+	</g>
+</svg>
