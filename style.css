@@ -243,10 +243,11 @@ footer .btn {
         text-align: center;
     }
 
-    footer img {
+    footer .imgfooter {
         width: 20%;
         margin: 0 auto;
     }
+
 
     a {
         font-size: 1rem !important;
